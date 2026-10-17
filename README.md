@@ -5,14 +5,12 @@
 <br>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/adhwaa-nasser-429365332?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
-
 
 </div>
 
 ## About
 
-I am an Information Technology student at King Saud University focused on Artificial Intelligence and Data Analysis. My work spans data science projects built on real Saudi datasets and full-stack software development, from requirements gathering to deployment. I am also a member of the Data Science Track at Tuwaiq Club, KSU.
+Information Technology student at KSU focused on Artificial Intelligence and Data Analysis. My work spans data science projects built on real Saudi datasets and full-stack software development, from requirements gathering to deployment. 
 
 ## Tech Stack
 
