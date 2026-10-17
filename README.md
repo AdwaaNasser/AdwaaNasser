@@ -60,11 +60,27 @@ A data mining project assessing air quality and pollution levels.
 
 ## Skills
 
-| Area | Tools |
-| --- | --- |
-| Data and AI | Python, Pandas, Jupyter Notebook, Machine Learning, Web Scraping |
-| Web Development | HTML, CSS, JavaScript, AJAX, PHP, MySQL |
-| Engineering Practices | Agile, Jira, UML, Git, GitHub |
+**Data and AI**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Web Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools and Practices**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-6D28D9?style=for-the-badge)
+![UML](https://img.shields.io/badge/UML-374151?style=for-the-badge)
 
 ## GitHub Stats
 
@@ -75,8 +91,3 @@ A data mining project assessing air quality and pollution levels.
 
 </div>
 
-## Contact
-
-<!-- Replace with your own links -->
-- LinkedIn: [linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/YOUR-USERNAME)
-- Email: [YOUR-EMAIL@example.com](mailto:YOUR-EMAIL@example.com)
