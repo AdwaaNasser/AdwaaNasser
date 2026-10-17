@@ -2,19 +2,42 @@
 
 <img src="banner.gif" alt="Adhwaa Nasser - IT Student | Artificial Intelligence | Data Analysis" width="100%">
 
+<br>
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/adhwaa-nasser-429365332?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+
+
 </div>
 
 ## About
 
-I am an Information Technology student at King Saud University with a focus on Artificial Intelligence and Data Analysis. My work spans data science projects built on real Saudi datasets and full-stack software development, from requirements gathering to deployment.
+I am an Information Technology student at King Saud University focused on Artificial Intelligence and Data Analysis. My work spans data science projects built on real Saudi datasets and full-stack software development, from requirements gathering to deployment. I am also a member of the Data Science Track at Tuwaiq Club, KSU.
 
-In Spring 2026, my team's project **SIRAJ** received the **3rd place award** at the IT Fair, held by the Department of Information Technology at King Saud University.
+## Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ## Featured Project
 
 ### [SIRAJ: Solar Energy Monitoring Platform](https://github.com/AdwaaNasser/Siraj)
+![IT Fair Spring 2026](https://img.shields.io/badge/IT_Fair_Spring_2026-3rd_Place-D4A017?style=for-the-badge)
 
-*3rd place, IT 320: Practical Software Engineering, IT Fair Spring 2026 | Jan 2026 - Jun 2026*
 
 A platform in the renewable energy domain that gives users a centralized, easy-to-use environment for monitoring solar energy systems and understanding their performance.
 
@@ -34,7 +57,7 @@ The project followed a complete Software Development Life Cycle:
 
 *Jan 2026 - Apr 2026*
 
-A data science study of how Arabic mental health content affects audience engagement. We defined the research question, collected 3,713 videos (3,336 from YouTube and 377 from TikTok, 2019-2025) through APIs and web scraping, performed exploratory data analysis, and developed machine learning models evaluated against a baseline.
+A data science study of how Arabic mental health content affects audience engagement. We defined the research question, collected 3,713 videos (3,336 from YouTube and 377 from TikTok, 2019-2025) through APIs and web scraping, performed exploratory data analysis, and developed machine learning models, including Linear Regression and Random Forest, evaluated against a baseline.
 
 **Focus:** Data Analysis, Web Scraping, EDA, Machine Learning
 
@@ -57,37 +80,3 @@ Exploratory analysis of the Saudi real estate market in Jupyter Notebook.
 A data mining project assessing air quality and pollution levels.
 
 **Focus:** Python, Data Mining
-
-## Skills
-
-**Data and AI**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Web Development**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools and Practices**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-6D28D9?style=for-the-badge)
-![UML](https://img.shields.io/badge/UML-374151?style=for-the-badge)
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AdwaaNasser&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdwaaNasser&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165">
-
-</div>
-
