@@ -1,65 +1,82 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:171C3A,50:4546A5,100:9B8AFB&text=ADWAA%20NASSER&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=DATA%20SCIENCE%20%7C%20ARTIFICIAL%20INTELLIGENCE&descSize=13&descAlignY=65&animation=fadeIn" width="100%" />
-
-<br/>
-
-### Turning data into insights, and ideas into projects.
-
-Data Science and Artificial Intelligence student at KSU, exploring machine learning, data analysis, and software development through hands-on projects.
-
-<br/>
-
-[GitHub](https://github.com/AdwaaNasser) 
+<img src="banner.gif" alt="Adhwaa Nasser - IT Student | Artificial Intelligence | Data Analysis" width="100%">
 
 </div>
 
----
+## About
 
-### `01 / TECH STACK`
+I am an Information Technology student at King Saud University with a focus on Artificial Intelligence and Data Analysis. My work spans data science projects built on real Saudi datasets and full-stack software development, from requirements gathering to deployment.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,mysql,git,github,vscode&perline=5" />
-</p>
+In Spring 2026, my team's project **SIRAJ** received the **3rd place award** at the IT Fair, held by the Department of Information Technology at King Saud University.
 
-### `02 / SELECTED PROJECTS`
+## Featured Project
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### [SIRAJ: Solar Energy Monitoring Platform](https://github.com/AdwaaNasser/Siraj)
 
-**Mental Health Influencers**
+*3rd place, IT 320: Practical Software Engineering, IT Fair Spring 2026 | Jan 2026 - Jun 2026*
 
-Analyzing social media engagement around mental health content in Saudi Arabia using data analysis, statistical testing, and machine learning.
+A platform in the renewable energy domain that gives users a centralized, easy-to-use environment for monitoring solar energy systems and understanding their performance.
 
-`Python` `Pandas` `Scikit-learn`
+The project followed a complete Software Development Life Cycle:
 
-</td>
-<td width="50%" valign="top">
+- Domain analysis and requirements elicitation through stakeholder interviews and questionnaires
+- Requirements engineering, UML modeling, and system and database design
+- Interface design, backend implementation, and multi-level software testing
+- Agile methodology, with user stories managed through a Product Backlog and Jira
+- Three-tier system architecture
 
-**More projects coming soon**
+**Focus:** Software Engineering, Agile, Jira, UML
 
-Exploring ideas in data science, AI, and software development through academic and personal projects.
+## Projects
 
-</td>
-</tr>
-</table>
+### [Mental Health Influencers on YouTube and TikTok](https://github.com/AdwaaNasser/Assessing-the-Impact-of-Mental-Health-Influencers-in-Saudi-Arabia)
 
-### `03 / GITHUB ANALYTICS`
+*Jan 2026 - Apr 2026*
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AdwaaNasser&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9B8AFB&icon_color=9B8AFB&text_color=C9D1D9" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdwaaNasser&layout=compact&hide_border=true&bg_color=0D1117&title_color=9B8AFB&text_color=C9D1D9" />
-</p>
+A data science study of how Arabic mental health content affects audience engagement. We defined the research question, collected 3,713 videos (3,336 from YouTube and 377 from TikTok, 2019-2025) through APIs and web scraping, performed exploratory data analysis, and developed machine learning models evaluated against a baseline.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdwaaNasser&hide_border=true&background=0D1117&ring=9B8AFB&fire=9B8AFB&currStreakLabel=9B8AFB&sideLabels=C9D1D9&dates=8B949E" width="70%" />
-</p>
+**Focus:** Data Analysis, Web Scraping, EDA, Machine Learning
 
----
+### [Munch: Recipe Sharing Web Application](https://github.com/AdwaaNasser/Munch-Backend)
+
+*Jan 2026 - May 2026*
+
+A full-stack application for sharing and discovering healthy recipes, with separate user and admin roles. Users can browse, like, favorite, and comment on recipes, report inappropriate content, and manage their own recipes. Admins review reports and manage blocked users. The front end uses HTML, CSS, and JavaScript; the back end uses PHP and MySQL, with AJAX for seamless interactions. The application is deployed on web hosting.
+
+**Focus:** PHP, MySQL, JavaScript, AJAX
+
+### [Saudi Real Estate Market Analysis](https://github.com/AdwaaNasser/Saudi-Real-Estate-Market-Analysis)
+
+Exploratory analysis of the Saudi real estate market in Jupyter Notebook.
+
+**Focus:** Python, Data Analysis
+
+### [Air Quality and Pollution Assessment](https://github.com/AdwaaNasser/Air-Quality-and-Pollution-Assessment-DataMiningProject)
+
+A data mining project assessing air quality and pollution levels.
+
+**Focus:** Python, Data Mining
+
+## Skills
+
+| Area | Tools |
+| --- | --- |
+| Data and AI | Python, Pandas, Jupyter Notebook, Machine Learning, Web Scraping |
+| Web Development | HTML, CSS, JavaScript, AJAX, PHP, MySQL |
+| Engineering Practices | Agile, Jira, UML, Git, GitHub |
+
+## GitHub Stats
 
 <div align="center">
 
-*Curious by nature. Learning by building.*
+<img src="https://github-readme-stats.vercel.app/api?username=AdwaaNasser&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdwaaNasser&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165">
 
 </div>
+
+## Contact
+
+<!-- Replace with your own links -->
+- LinkedIn: [linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/YOUR-USERNAME)
+- Email: [YOUR-EMAIL@example.com](mailto:YOUR-EMAIL@example.com)
