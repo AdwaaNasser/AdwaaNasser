@@ -10,7 +10,7 @@
 
 ## About
 
-Information Technology student at KSU focused on Artificial Intelligence and Data Analysis. My work spans data science projects built on real Saudi datasets and full-stack software development, from requirements gathering to deployment. 
+Information Technology student at KSU focused on Artificial Intelligence and Data | full-stack software development, from requirements gathering to deployment. 
 
 ## Tech Stack
 
@@ -45,7 +45,7 @@ The project followed a complete Software Development Life Cycle:
 - Requirements engineering, UML modeling, and system and database design
 - Interface design, backend implementation, and multi-level software testing
 - Agile methodology, with user stories managed through a Product Backlog and Jira
-- Three-tier system architecture
+
 
 **Focus:** Software Engineering, Agile, Jira, Full-Stack development 
 
