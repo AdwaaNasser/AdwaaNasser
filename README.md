@@ -47,7 +47,7 @@ The project followed a complete Software Development Life Cycle:
 - Agile methodology, with user stories managed through a Product Backlog and Jira
 - Three-tier system architecture
 
-**Focus:** Software Engineering, Agile, Jira, UML
+**Focus:** Software Engineering, Agile, Jira, Full-Stack development 
 
 ## Projects
 
