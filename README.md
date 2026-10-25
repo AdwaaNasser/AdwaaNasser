@@ -10,7 +10,7 @@
 
 ## About
 
-Information Technology student at KSU focused on Artificial Intelligence and Data | full-stack software development, from requirements gathering to deployment. 
+Information Technology student at KSU focused on Artificial Intelligence and Data | full-stack software development
 
 ## Tech Stack
 
